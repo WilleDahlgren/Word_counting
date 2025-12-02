@@ -1,5 +1,5 @@
 # Word_counting
-This code is from a lab a partner and I did in an introductory course in python. The program counts the occurrence of all words in a textfile. 
+This code is from a lab a partner and I did in an introductory course in python. The program counts the occurrence of all words in a textfile. The module intended for use is the file "topmost.py". 
 The program accepts textfiles in a format that is local to your computer, meaning you have it as a file on your harddrive or in a URL format, the URL must lead to a textfile for it to work. 
 
 The program works by entering 3 argument in the terminal. 
